@@ -1,0 +1,24 @@
+{
+ width: 200px;
+ text-align:center;
+ font-style: 'courier';
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+
+}
+
+
+.vertical-menu a
+{
+  background-color: aqua;
+  color:black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+
+}
+.vertical-menu a:hover{
+    background-color: #64c771;
+}
