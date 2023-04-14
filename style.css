@@ -1,4 +1,4 @@
-{
+.vertical-menu {
  width: 100px;
  text-align:center;
  font-style: 'courier';
@@ -20,5 +20,5 @@
 
 }
 .vertical-menu a:hover{
-    background-color: #64c771;
+  background-color: #4202f3;
 }
