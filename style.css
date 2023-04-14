@@ -5,20 +5,16 @@
  display: block;
  margin-left: auto;
  margin-right: auto;
-
-
 }
 
-
-.vertical-menu a
-{
+.vertical-menu a {
   background-color: #4202f3;
   color:black;
   display: block;
   padding: 3px;
   text-decoration: none;
-
 }
+
 .vertical-menu a:hover{
   background-color: #4202f3;
 }
