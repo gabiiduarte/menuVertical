@@ -1,4 +1,4 @@
-.vertical-menu {
+.vertical-menu, h1 {
  width: 500px;
  text-align:center;
  font-style: 'courier';
@@ -25,3 +25,4 @@ body{
 *{
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+ 
